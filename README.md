@@ -1,4 +1,4 @@
-# Design-thinking
+# Design-Thinking Assignment
 Design Thinking consist problem statment based case studies. Using different design thinking approach need to solve given problems. There are below design thinking approaches:
 
 5 Why's Framework
